@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bpmyonwqj62f2"]
+
+[ext_resource type="AudioStream" uid="uid://b6dh3bfsflq48" path="res://assests/music/AdhesiveWombat - Night Shade.mp3" id="1_4s6ut"]
+
+[node name="BGM" type="AudioStreamPlayer2D"]
+stream = ExtResource("1_4s6ut")
+autoplay = true
+bus = &"music"
