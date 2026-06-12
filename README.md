@@ -62,9 +62,9 @@ Inspired by what I learned, I spent the following six days building **Return of 
 
 ## 💡 Fun Fact
 
-This project was originally started just to impress someone 😄.
+This project was originally started just to impress a girl. (didn't workout..LOL)
 
-That part didn't work out, but something much better happened—I discovered how much I enjoy building things with code.
+but something much better happened—I discovered how much I enjoy building things with code.
 
 ---
 
