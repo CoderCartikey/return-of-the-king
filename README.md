@@ -54,6 +54,7 @@ Inspired by what I learned, I spent the following six days building **Return of 
 <p align="center">
   <img src="certificate.png" width="700">
 </p>
+<img width="399" height="283" alt="Screenshot 2026-06-13 002701" src="https://github.com/user-attachments/assets/92f0b24c-40d7-4da3-bd86-62fcb8334b95" />
 
 ---
 
