@@ -37,7 +37,7 @@ A retro-inspired 2D platformer built with **Godot Engine** and **GDScript**.
 
 ## 🚀 Download
 
-Download the latest Windows release and launch the `.exe` file to start playing.
+Download the latest Windows release and open the `.zip` file to start playing.
 
 https://github.com/CoderCartikey/return-of-the-king/releases/download/v1.0/Return_Of_the_King.zip
 
