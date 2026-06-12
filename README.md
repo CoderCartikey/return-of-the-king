@@ -27,11 +27,17 @@ A retro-inspired 2D platformer built with **Godot Engine** and **GDScript**.
 
 ## 📸 Screenshots
 
-<img width="1280" height="720" alt="Screenshot 2026-06-13 003606" src="https://github.com/user-attachments/assets/ca93749b-7514-42cc-b9ac-f6fb328cc8a2" />
-<img width="1280" height="720" alt="Screenshot 2026-06-13 003550" src="https://github.com/user-attachments/assets/a15206ef-d0c3-4605-9056-8b26ff18aa5a" />
-<img width="1280" height="720" alt="Screenshot 2026-06-13 003532" src="https://github.com/user-attachments/assets/095fcbf4-4f6e-4aa7-914d-edbc522b0a49" />
-<img width="1280" height="720" alt="Screenshot 2026-06-13 003652" src="https://github.com/user-attachments/assets/96e0e1cb-2868-404a-a899-4f328dd2649f" />
-
+Return-of-the-King
+│
+├── screenshots
+│   ├── <img width="1280" height="720" alt="Screenshot 2026-06-13 003606" src="https://github.com/user-attachments/assets/ca93749b-7514-42cc-b9ac-f6fb328cc8a2" />
+│   ├── <img width="1280" height="720" alt="Screenshot 2026-06-13 003550" src="https://github.com/user-attachments/assets/a15206ef-d0c3-4605-9056-8b26ff18aa5a" />
+│   ├── <img width="1280" height="720" alt="Screenshot 2026-06-13 003532" src="https://github.com/user-attachments/assets/095fcbf4-4f6e-4aa7-914d-edbc522b0a49" />
+│   └── <img width="1280" height="720" alt="Screenshot 2026-06-13 003652" src="https://github.com/user-attachments/assets/96e0e1cb-2868-404a-a899-4f328dd2649f" />
+│
+├── certificate.png
+├── project.godot
+└── README.md
 
 ---
 
